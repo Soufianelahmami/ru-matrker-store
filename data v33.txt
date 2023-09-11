@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Ru Marker Stores are a novel concept that caters specifically to marker enthusiasts, artists, and anyone who appreciates the versatility and vibrancy of markers as a medium ",
+   "photo1":"https://iili.io/J9soLNf.webp"},
+  {"desc2":"Ru Marker Stores boast an impressive selection of markers, encompassing various brands and types. Whether you're a professional illustrator, a graffiti artist, or a hobbyist, you can find markers that suit your specific needs","photo2":"https://iili.io/J9sosAG.webp"},
+  {"desc3":"Ru Marker Stores prioritize quality and authenticity, ensuring that customers receive genuine products from reputable brands","photo3":"https://iili.io/J9soi9s.webp"},
+  {"desc4":"The staff at Ru Marker Stores are often well-versed in marker types and applications","photo4":"https://iili.io/J9so6Sn.webp"},
+  {"desc5":"Many Ru Marker Stores go beyond being mere retail spaces; they become hubs for local art communities. Some stores host workshops, art events, and competitions, fostering a sense of belonging and encouraging artistic growth","photo5":"https://iili.io/J9sotol.webp"},
+  {"descd":"Some Ru Marker Stores offer customization services, allowing customers to create their marker sets by choosing specific colors and tips","photod":"https://iili.io/J9soQt4.webp"}
    ]
  
 }
