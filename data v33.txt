@@ -45,13 +45,18 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"In today's world, where creativity and innovation are celebrated, having access to a wide array of arts and crafts supplies is crucial for both seasoned artists and DIY enthusiasts alike. Thanks to the convenience of online shopping, procuring these essential materials has never been easier, and one platform that stands out among the rest is Rustore Matrker Store. In this article, we will take a closer look at what sets Rustore Matrker Store apart as a unique and sought-after destination for artists, crafters, and everyday consumers.",
+   "photo1":"https://iili.io/JJ92HIR.webp"},
+  {"desc2":"Rustore Matrker Store takes pride in offering a diverse and extensive range of arts and crafts products. Whether you're in search of high-quality paints, brushes, sketchbooks, sewing kits, or any other creative tools, Rustore Matrker Store has you covered. The platform collaborates with renowned art supply brands and consistently updates its inventory to provide customers with access to the latest and most innovative materials for their artistic endeavors.",
+"photo2":"https://iili.io/JJ92JXp.jpg"},
+  {"desc3":"Navigating Rustore Matrker Store's website or mobile app is a breeze. The user-friendly interface ensures that shoppers can seamlessly browse through various categories, access detailed product descriptions, and compare specifications. With its well-organized layout, finding the perfect art supply is a seamless experience for customers of all artistic backgrounds.",
+"photo3":"https://iili.io/JJ92dLN.jpg"},
+  {"desc4":"Rustore Matrker Store's standout feature is its commitment to offering competitive pricing. Whether you're a professional artist or a budget-conscious hobbyist, you can take advantage of affordable prices on a wide range of creative products. Additionally, Rustore Matrker Store frequently provides exclusive promotions, discounts, and bundles, making it an enticing choice for those looking to maximize their creative potential without breaking the bank.",
+"photo4":"https://iili.io/JJ9dymv.webp"},
+  {"desc5":"Customer satisfaction is at the heart of Rustore Matrker Store's mission. The platform's dedicated customer support team is readily available to assist with inquiries, offer product recommendations, and address any concerns. Furthermore, Rustore Matrker Store prioritizes the security and privacy of its customers, ensuring that their information is handled with the utmost care and in compliance with industry standards.",
+"photo5":"https://iili.io/JJ923BI.webp"},
+  {"descd":"Shopping at Rustore Matrker Store is not only easy but also convenient. The platform supports various payment methods, making it accessible to customers worldwide. Additionally, Rustore Matrker Store offers flexible delivery options, including expedited shipping for those eager to begin their creative projects promptly.",
+"photod":"https://iili.io/JJ923BI.webp"}
    ]
  
 }
